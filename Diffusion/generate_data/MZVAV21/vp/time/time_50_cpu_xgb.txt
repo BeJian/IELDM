@@ -1,0 +1,4 @@
+Training time:
+57.16346836090088
+Generation time:
+1.0782349109649658
